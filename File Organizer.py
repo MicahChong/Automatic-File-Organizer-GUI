@@ -4,8 +4,8 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Directory and File Types
-directorydesk = "C:/Users/micah/Desktop/Testing"
-directoryload = "C:/Users/micah/Desktop/Testing2"
+directorydesk = ""FOLDER DIRECTORY HERE" # Change these to your folder directory
+directoryload = "FOLDER DIRECTORY HERE"
 file_categories = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff'],
     'Documents': ['.pdf', '.doc', '.docx', '.txt', '.xls', '.xlsx', '.ppt', '.pptx'],
